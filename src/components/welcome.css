@@ -1,0 +1,14 @@
+#main{
+    margin: 50px 400px ;
+  }
+  .detail{
+    width: 500px;
+    height: 40px;
+  }
+  #next{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(168, 168, 168);
+    border: none;
+  }
+  
